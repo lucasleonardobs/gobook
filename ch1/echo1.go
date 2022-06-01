@@ -1,4 +1,5 @@
-// Echo1 exibe seus argumentos de linha de comando
+// Echo1 show your cli's arguments
+
 package main
 
 import (
